@@ -1,0 +1,27 @@
+MERCI - Summary of options:
+ -p    train_pos.fasta
+ -n    train_neg.fasta
+ -k 	  20
+ -fp   2
+ -fn   0
+ -o    motif_result/positive_motif/pos_k_20_C_BETTS_RUSSELL_g0_fp2.txt
+ -l    10000
+ -s    10000
+ -c    BETTS-RUSSELL
+ -g    0
+ -gl   1
+ -para 0
+
+
+Motifs:
+ tiny polar hydrophobic G hydrophobic
+ small S hydrophobic G
+ hydrophobic polar hydrophobic tiny polar hydrophobic hydrophobic polar
+ hydrophobic polar A G hydrophobic
+ tiny hydrophobic S hydrophobic hydrophobic hydrophobic
+ aliphatic aliphatic hydrophobic polar polar aliphatic
+ hydrophobic L hydrophobic aliphatic small
+ G small small G small
+ tiny S hydrophobic G
+ tiny S tiny tiny
+ P hydrophobic polar polar hydrophobic

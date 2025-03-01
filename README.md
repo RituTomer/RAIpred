@@ -87,7 +87,7 @@ README.md                           : This file provide information about this p
 
 model.zip                           : This zipped file contains the compressed version of model
 
-cdpred.py                           : Main python program
+raipred.py                           : Main python program
 
 
 # Reference

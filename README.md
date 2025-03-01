@@ -14,7 +14,7 @@ The Standalone version of raipred is written in python3 and following libraries 
 - scikit-learn
 - Pandas
 - Numpy
--xgboost
+- xgboost
 
 https://webs.iiitd.edu.in/raghava/raipred/download.html
 
